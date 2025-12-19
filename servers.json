@@ -13,3 +13,18 @@
         "port": "1193"
     }
 ]
+[
+    {
+        "online": "543",
+        "maxonline": "1000",
+        "color": "FFFF00",
+        "x2": "true",
+        "key": "1424",
+        "name": "SHYMBULAK",
+        "firstname": "SHYMBULAK",
+        "secondname": "",
+        "url": "Almaty.blackrussia.online",
+        "ip": "188.127.241.74",
+        "port": "3023"
+    }
+]
