@@ -5,11 +5,11 @@
         "color": "FF0000",
         "x2": "true",
         "key": "1424",
-        "name": "ALMATY",
-        "firstname": "ALMATY",
+        "name": "SERVER",
+        "firstname": "SERVER",
         "secondname": "",
         "url": "Almaty.blackrussia.online",
-        "ip": "31.77.232.41",
-        "port": "3395"
+        "ip": "188.127.241.8",
+        "port": "1434"
     }
 ]
